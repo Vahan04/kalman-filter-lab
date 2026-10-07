@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+results/*.csv
+results/*.png
+results/metrics.txt
